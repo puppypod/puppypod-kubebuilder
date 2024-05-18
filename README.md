@@ -134,3 +134,4 @@ $ kubebuilder create webhook --group batch --version v1 --kind CronJob --default
 # 참고문헌
 - https://ssup2.github.io/blog-software/docs/programming/kubernetes-kubebuilder/#27-memcached-controller-local-%ea%b5%ac%eb%8f%99
 - https://devocean.sk.com/blog/techBoardDetail.do?ID=165109
+- https://book.kubebuilder.io/cronjob-tutorial/cronjob-tutorial
